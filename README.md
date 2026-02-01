@@ -119,8 +119,3 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
-<div align="center">
-<br>
-<img src="https://media.giphy.com/media/Yqd1UMaXMsvNOmBW8Z/giphy.gif" width="100px">
-</div>
