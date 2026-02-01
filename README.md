@@ -1,23 +1,34 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlemEsv&style=flat-square&color=blue" alt=""/>
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd436c72d3.gif"/>
 </div>
 
+<h3 align="center">
+  Hola, soy Cinver Espinoza 
+</h3>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=339AF0&center=true&vCenter=true&width=500&lines=Hola,+soy+Cinver+Espinoza;Backend+Developer;CS+Student+%40+UNI;Apasionado+por+IoT+y+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9F43&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Backend+Developer"/>
   </a>
+</p>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Sobre mí
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35668805/120089505-57928400-c0cb-11eb-9174-d925e525966c.gif" width="100%">
+</div>
 
-Soy estudiante de **Ciencias de la Computación** en la **Universidad Nacional de Ingeniería (UNI)**.
+### ☕ Sobre mí
 
-- 🔭 **Actualmente en un proyecto sobre:** Arquitectura backend para soluciones SaaS IoT y plataformas de trazabilidad.
-- 🌱 **Aprendiendo:** Cloud Infrastructure (AWS) y Deep Learning.
-- 🎮 **Hobby:** Desarrollo de videojuegos (Unity/C#).
+* 🎓 **Educación:** Estudiante de Ciencias de la Computación en la **Universidad Nacional de Ingeniería (UNI)**.
+* 🔭 **Intereses:** Arquitectura de Software, **Cloud Computing** e **IA**.
+* 🌱 **Aprendiendo:** Infraestructura en la nube (**AWS**) y **Deep Learning**.
+* 🎮 **Hobby:** Desarrollo de videojuegos con **Unity** & **C#**.
+* 🌙 **Ubicación:** Lima, Perú.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35668805/120089835-249ccc00-c0cc-11eb-9f76-619880d4d96a.gif" width="100%">
+</div>
 
-
-### 🛠️ Tech Stack
+### Tech Stack
 
 <table align="center">
   <tr>
@@ -82,26 +93,34 @@ Soy estudiante de **Ciencias de la Computación** en la **Universidad Nacional d
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35668805/120089505-57928400-c0cb-11eb-9174-d925e525966c.gif" width="100%">
+</div>
 
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
   <a href="https://github.com/AlemEsv">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlemEsv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlemEsv&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlemEsv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlemEsv&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
   </a>
 </div>
 
----
+<br>
 
 ### 📫 Conéctate conmigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cinver-alem-espinoza-valera-664377344/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp; <a href="mailto:blugalaxy690@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;&nbsp;
+  <a href="mailto:blugalaxy690@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</div>
+
+<div align="center">
+<br>
+<img src="https://media.giphy.com/media/Yqd1UMaXMsvNOmBW8Z/giphy.gif" width="100px">
 </div>
