@@ -1,14 +1,10 @@
-<div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd436c72d3.gif"/>
-</div>
-
 <h3 align="center">
-  Hola, soy Cinver Espinoza 
+  Hola, soy Cinver Espinoza
 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9F43&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Backend+Developer"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9F43&center=true&vCenter=true&width=435&lines=Computer+Science+Student"/>
   </a>
 </p>
 
