@@ -1,24 +1,24 @@
 <h3 align="center">
-  Hola, soy Cinver Espinoza
+  Hi there, I'm Cinver Espinoza
 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9F43&center=true&vCenter=true&width=435&lines=Computer+Science+Student"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9F43&center=true&vCenter=true&width=435&lines=Computer+Science+Student" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/35668805/120089505-57928400-c0cb-11eb-9174-d925e525966c.gif" width="100%">
+  <img src="https://cdn.discordapp.com/emojis/1413281311371690094.webp?size=56" width="5%">
 </div>
 
-### ☕ Sobre mí
+### ☕ About Me
 
-* 🎓 **Educación:** Estudiante de Ciencias de la Computación en la **Universidad Nacional de Ingeniería (UNI)**.
-* 🔭 **Intereses:** Arquitectura de Software, **Cloud Computing** e **IA**.
-* 🌱 **Aprendiendo:** Infraestructura en la nube (**AWS**) y **Deep Learning**.
-* 🎮 **Hobby:** Desarrollo de videojuegos con **Unity** & **C#**.
-* 🌙 **Ubicación:** Lima, Perú.
+* 🎓 **Education:** Computer Science Undergraduate at **National University of Engineering (UNI)**.
+* 🔭 **Focus:** Software Architecture & **IoT**.
+* 🌱 **Learning:** Cloud Infrastructure (**AWS**) & **Deep Learning**.
+* 🎮 **Hobby:** Creating 2D games with **Unity** & **C#**.
+* 📍 **Location:** Based in **Lima, Peru**.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/35668805/120089835-249ccc00-c0cc-11eb-9f76-619880d4d96a.gif" width="100%">
