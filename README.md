@@ -93,7 +93,7 @@
   <img src="https://user-images.githubusercontent.com/35668805/120089505-57928400-c0cb-11eb-9174-d925e525966c.gif" width="100%">
 </div>
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/AlemEsv">
@@ -104,7 +104,7 @@
 
 <br>
 
-### 📫 Conéctate conmigo
+### 📫 Social Media
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cinver-alem-espinoza-valera-664377344/" target="_blank">
