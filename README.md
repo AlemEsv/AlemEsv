@@ -1,30 +1,27 @@
-<h3 align="center">
-  Hi there, I'm Cinver Espinoza
-</h3>
+# Hi there!
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9F43&center=true&vCenter=true&width=435&lines=Computer+Science+Student" alt="Typing SVG" />
+<p align="left">My name is Cinver and I'm a Computer Science Student, from Peru (●'◡'●)</p>
+
+###
+
+<div align="center">
+  <a href="https://github.com/AlemEsv">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlemEsv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlemEsv&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
   </a>
-</p>
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/emojis/1413281311371690094.webp?size=56" width="5%">
 </div>
 
-### ☕ About Me
+## About Me
 
-* 🎓 **Education:** Computer Science Undergraduate at **National University of Engineering (UNI)**.
-* 🔭 **Focus:** Software Architecture & **IoT**.
-* 🌱 **Learning:** Cloud Infrastructure (**AWS**) & **Deep Learning**.
-* 🎮 **Hobby:** Creating 2D games with **Unity** & **C#**.
-* 📍 **Location:** Based in **Lima, Peru**.
+<img align="right" height="150" src="https://media1.tenor.com/m/hUNGDvjRrFIAAAAd/aigis-plush-aigis-thwack.gif"  />
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/35668805/120089835-249ccc00-c0cc-11eb-9f76-619880d4d96a.gif" width="100%">
-</div>
+- I'm currently learning AWS architecture & Spring Boot (❁´◡`❁)
 
-### Tech Stack
+- One of my biggest hobbies is playing video games. I really like turn-based & Metroidvania ones.
+
+- In the future, I want to improve my Java skills and understand more about Deep Learning & AI.
+
+## Tech Stack
 
 <table align="center">
   <tr>
@@ -41,36 +38,31 @@
       <br>Kotlin
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
       <br>C#
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>Postgres
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="Javascript" />
+      <br>Javascript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
-      <br>Unity
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
     </td>
-    <td align="center" width="90"></td>
   </tr>
 </table>
 
-### ⚙️ Tools & OS
+### Tools
 
 <table align="center">
   <tr>
@@ -79,12 +71,16 @@
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="Postgre" />
+      <br>Postgre
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="Mongo" />
+      <br>MongoDB
     </td>
   </tr>
 </table>
@@ -93,18 +89,8 @@
   <img src="https://user-images.githubusercontent.com/35668805/120089505-57928400-c0cb-11eb-9174-d925e525966c.gif" width="100%">
 </div>
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/AlemEsv">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlemEsv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlemEsv&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
-  </a>
-</div>
-
-<br>
-
-### 📫 Social Media
+### Social Media
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cinver-alem-espinoza-valera-664377344/" target="_blank">
