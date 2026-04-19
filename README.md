@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/AlemEsv">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlemEsv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlemEsv&show_icons=true&theme=dracula&include_all_commits=true&count_private=false&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlemEsv&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
   </a>
 </div>
